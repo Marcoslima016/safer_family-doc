@@ -9,17 +9,37 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-
+extra_css:
+  - stylesheets/extra.css
+  
 nav:
-  - Intro: intro.md
 
+  - Intro: intro.md
+  - Aplicativos Mobile:
+    - Resumo:  apps_mobile/resumo.md
+    - Senior Safer:  apps_mobile/senior_safer.md
+    - Driver Safer:  apps_mobile/driver_safer.md
+  - API Rest: www.google.com.br
+  - Banco de dados: database/database.md
+  - Packages:
+    - Introdução:  packages/introducao.md 
+    - SegApp:  packages/seg_app.md 
+    - SegAuth:  packages/introducao.md 
+    - SaferList:  packages/safer_list.md 
+  - Hardware: 
+    - Devices: hardware/devices.md
+  - Ferramentas e utilidades:
+    - Gerar QR Code de um device: ferramentas_utilidades/gerar_qr.md
+    - Log de eventos UDP: ferramentas_utilidades/gerar_qr.md
+    - Navegador versão Administrador ( Acompanhar todos os monitoramentos ): ferramentas_utilidades/gerar_qr.md
+    
 
 theme:
   name: null
   custom_dir: mkdocs-material/material
 
   palette:
-    primary: black
+    primary: white
 
   # features:
   #   - navigation.expand
