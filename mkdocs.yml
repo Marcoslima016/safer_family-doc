@@ -5,6 +5,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - attr_list
+  # - markdown.extensions.extra
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -30,7 +31,7 @@ nav:
     - Devices: hardware/devices.md
   - Ferramentas e utilidades:
     - Gerar QR Code de um device: ferramentas_utilidades/gerar_qr.md
-    - Log de eventos UDP: ferramentas_utilidades/gerar_qr.md
+    - Log de eventos UDP: ferramentas_utilidades/gerar_qr2.md
     - Navegador versão Administrador ( Acompanhar todos os monitoramentos ): ferramentas_utilidades/gerar_qr.md
     
 
