@@ -5,6 +5,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - attr_list
+  # - markdown.extensions.extra
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -19,7 +20,7 @@ nav:
     - Resumo:  apps_mobile/resumo.md
     - Senior Safer:  apps_mobile/senior_safer.md
     - Driver Safer:  apps_mobile/driver_safer.md
-  - API Rest: www.google.com.br
+  - API Rest: api_rest/api_rest.md
   - Banco de dados: database/database.md
   - Packages:
     - Introdução:  packages/introducao.md 
@@ -32,8 +33,9 @@ nav:
     - Processo de cadastro: guias_tutoriais/processo_cadastro.md    
   - Ferramentas e utilidades:
     - Gerar QR Code de um device: ferramentas_utilidades/gerar_qr.md
-    - Log de eventos UDP: ferramentas_utilidades/gerar_qr.md
+    - Log de eventos UDP: ferramentas_utilidades/gerar_qr2.md
     - Navegador versão Administrador ( Acompanhar todos os monitoramentos ): ferramentas_utilidades/gerar_qr.md
+    - Servidor Web:  ferramentas_utilidades/servidor_web.md
     
 
 theme:
