@@ -6,7 +6,7 @@ O link abaixo serve para enviar pushs simples composto pela mensagem "teste". Pa
 
 ```
 .
-https://www.segcontrole.com.br/safer/v1/teste_push.php?<TOKEN_PUSH>&tipo=1&app_id=<APP_ID>
+https://www.segcontrole.com.br/safer/v1/teste_push.php?token_push=<TOKEN_PUSH>&tipo=1&app_id=<APP_ID>
 ```
 
 ---
