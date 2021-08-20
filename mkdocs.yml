@@ -36,6 +36,7 @@ nav:
     - Log de eventos UDP: ferramentas_utilidades/gerar_qr2.md
     - Navegador versão Administrador ( Acompanhar todos os monitoramentos ): ferramentas_utilidades/gerar_qr.md
     - Servidor Web:  ferramentas_utilidades/servidor_web.md
+    - Ferramentas para Debug de Push:  ferramentas_utilidades/push.md 
     
 
 theme:
