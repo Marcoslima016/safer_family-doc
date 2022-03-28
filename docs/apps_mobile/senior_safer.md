@@ -77,8 +77,6 @@ Aplicativo voltado para o cuidado de idosos.
 
 ##Repositório git
 
----
-
 
 ###Branchs
 
